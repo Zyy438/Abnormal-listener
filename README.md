@@ -18,7 +18,7 @@ The 9-layer keras neural network model as well as audio files used in this abnor
 
 4. if you do not want to use the GUI please just run the start_training function and then the start_testing function. And delete the GUI codes in the bottom.
 
-   **In the future I plan to make it real-time! (a recorder embedded, the abnormal score generator will iterate abnormal score for every 5 seconds, no need to operate files in folders) **
+   **In the future I plan to make it real-time! (a recorder embedded, the abnormal score generator will iterate abnormal score for every 5 seconds, no need to operate files in folders)**
 
 ## Dependency
 
