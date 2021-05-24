@@ -1,4 +1,4 @@
-![abnormal_listener_main](/Users/zhouhong/Desktop/project/Abnormal_listener/pictures/abnormal_listener_main.png)
+![abnormal_listener_main](./pictures/abnormal_listener_main.png)
 
 # **Abnormal Score Generator**
 
