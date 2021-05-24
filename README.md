@@ -10,7 +10,7 @@ The 9-layer keras neural network model used in this abnormal score generator com
 
 ## How to Use
 
-1. st􏰀ore trai􏰁ng fi􏰂es (.wav) i􏰁t􏰀 the ‘/train􏰁’ f􏰀􏰂older
+1. st􏰀ore trai􏰁ning fi􏰂es (.wav) i􏰁t􏰀 the ‘/train􏰁’ f􏰀􏰂older
 
 2. store single test wav file into the '/test' folder and name it as 'testfile.wav'
 
