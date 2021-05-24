@@ -6,7 +6,7 @@ This is a little tool created in my postgrad research project Hope you like it ^
 
 This is an abnormal score generator for audio files. the higher the anomaly score given, the more abnormal the detected sound should be. 
 
-The 9-layer keras neural network model used in this abnormal score generator comes from DCASE challenge 2020 'Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring' baseline system. 
+The 9-layer keras neural network model as well as audio files used in this abnormal score generator comes from DCASE challenge 2020 'Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring' baseline system. 
 
 ## How to Use
 
