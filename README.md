@@ -10,7 +10,7 @@ The 9-layer keras neural network model as well as audio files used in this abnor
 
 ## How to Use
 
-1. st􏰀ore trai􏰁ning fi􏰂es (.wav) i􏰁t􏰀 the ‘/train􏰁’ f􏰀􏰂older
+1. store training files (.wav) in the ‘/train’ folder
 
 2. store single test wav file into the '/test' folder and name it as 'testfile.wav'
 
